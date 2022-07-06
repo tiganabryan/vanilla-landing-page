@@ -1,0 +1,16 @@
+.nested-illustration-container {
+    overflow:hidden;
+    /* padding: 3000px; */
+
+}
+
+.illustration-item {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 6px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-radius: 10px;
+    /* height: 200px; */
+    /* overflow: hidden; */
+}

@@ -9,3 +9,5 @@ info
 quote
 call to action (item inside with lots of margin)
 footer
+
+sky blue: #3882F6
