@@ -2,9 +2,48 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/* Header Section */
+body {
+    margin: 0;
+}
+
+/* Section background and font colours */
+.header-section,
+.hero-section,
+.footer-section {
+    color: white;
+    background-color: #1F2937;
+}
+
+.info-section {
+    background-color: white;
+    color: black;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-text-item {
+    font-style: italic;
+}
+
+.quote-author-item {
+    font-weight: 500;
+}
 
 
+
+.header-logo {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.breadcrumb-item {
+    font-size: 11px;
+}
+
+/* Hero Section */
+ {}
 
 
 
