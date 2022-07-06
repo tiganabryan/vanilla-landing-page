@@ -11,3 +11,11 @@ call to action (item inside with lots of margin)
 footer
 
 sky blue: #3882F6
+
+call to action needs
+flex container - default dir is fine
+    flex container direction column
+        call to action
+        info
+    flex container direction column
+    button
