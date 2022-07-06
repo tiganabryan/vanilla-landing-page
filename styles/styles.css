@@ -24,7 +24,9 @@ body {
 }
 
 .illustration-text {
-    font-size: 12px;
+    text-align: center;
+    font-size: 16px;
+    width: 100%;
 }
 
 .quote-section {
@@ -32,7 +34,7 @@ body {
 }
 
 .quote-container {
-    padding: 3% 15%;
+    padding: 5% 15%;
 
     display: flex;
     flex-direction: column;
@@ -40,8 +42,15 @@ body {
 
 .quote-text-item {
     font-style: italic;
+    font-size: 20px;
+    font-weight: 100;
 
     display: flex;
+}
+
+.quote-text {
+    margin-bottom: 0px;
+    font-size: 25px;
 }
 
 .quote-author-item {
@@ -53,8 +62,9 @@ body {
     justify-content: end;
 }
 
-.quote-author {
-    margin-top:-2%;
+.quote-author-text {
+    margin-top:0px;
+    font-size: 20px;
 
 }
 
@@ -121,24 +131,62 @@ body {
 }
 
 
+.info-header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 
+.info-header-item {
+    display: flex;
+    margin: 1%;
+}
 
 .info-header {
     text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    /* margin-top: 3%; */
 }
 
 .illustrations-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.single-illustration-container {
+    display: flex;
+    flex-direction: column;
+    width:130px;
+}
+
+#single-illustration-container {
+    margin-right: 1%;
+    margin-left: 1%;
+    justify-content: center;
 }
 
 .illustration-item {
     background-color: white;
-    padding: 20px;
     margin-bottom: 6px;
     border-color: #3882F6;
     border-style: solid;
     border-radius: 10px;
+    width: 120px;
+    height: 120px;
+    align-items: center;
+}
+
+#test {
+    align-items: center;
+}
+
+.illutstration-text-item {
+    display: flex;
+    text-align:justify;
+    width: 100%;
 }
 
 .footer-header {
