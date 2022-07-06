@@ -19,6 +19,15 @@ body {
     color: black;
 }
 
+.info-header {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.illustration-text {
+    font-size: 12px;
+}
+
 .quote-section {
     background-color: #E5E7EB;
 }
@@ -30,6 +39,36 @@ body {
 .quote-author-item {
     font-weight: 500;
 }
+
+.call-to-action-section {
+    background-color: #3882F6;
+    color: white;
+    margin: 5%
+}
+
+.call-to-action-container {
+    padding: 2%;
+}
+
+.call-to-action-header {
+    font-weight: 500;
+    margin: 0px;
+
+}
+
+.call-to-action-subtitle {
+    font-weight: 200;
+}
+
+.call-to-action-btn {
+    border-color: white;
+    border-style: solid;
+    border-radius: 6px;
+    background: none;
+    color:white;
+}
+
+.
 
 
 
