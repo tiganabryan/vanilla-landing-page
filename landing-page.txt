@@ -1,0 +1,6 @@
+how many sections
+breadcrumbs
+info
+quote
+call to action (item inside with lots of margin)
+footer
