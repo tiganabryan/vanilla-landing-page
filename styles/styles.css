@@ -131,6 +131,12 @@ body {
 
 }
 
+.call-to-action-justify {
+    display: flex;
+    justify-content: center;
+}
+
+
 .call-to-action-section {
     background-color: #3882F6;
     color: white;
