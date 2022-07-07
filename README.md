@@ -1,2 +1,2 @@
 # vanilla-landing-page
-html and css landing page
+html, css, and typescript landing page
