@@ -1,5 +1,5 @@
 # landing page
-> working on this html, css, and typescript landing page
+> html and css landing page
 
 <div align="center">
 <img src="images/screenshot.png">
